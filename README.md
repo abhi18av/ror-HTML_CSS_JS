@@ -1,0 +1,1 @@
+This are my assignments for the word done for Coursera ROR specialization - HTML, CSS, JavaScript
